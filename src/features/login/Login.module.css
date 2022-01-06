@@ -1,0 +1,16 @@
+.inputContainer {
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.input {
+  margin-top: 18px;
+  margin-right: 12px;
+}

@@ -1,0 +1,13 @@
+.classContainer {
+  border-radius: 4px;
+  padding: 20px;
+  border: 1px solid gray;
+  display: block;
+  margin-top: 12px;
+  width: 300px;
+}
+
+.studentContainer {
+  display: flex;
+  /* justify-content: space-evenly; */
+}
